@@ -1,0 +1,4 @@
+Procesor:AMD Ryzen™ 5 5500U
+Pamięć:16 GB
+Grafika:AMD Radeon™ Graphics
+Typ ekranu:Matowy, LED, IPS
